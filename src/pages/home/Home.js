@@ -19,7 +19,7 @@ const Home = () => {
                   <Nav.Link href="/consulta">Marcar consulta</Nav.Link>
                 </Button>
             </Card.Body>
-          </Card>
+          </Card> 
           <h2 className="pt-5 mb-4 text-start">Comentarios </h2>
           <Card className="mb-3">
             <Card.Header as="h5" style={{color: 'blue'}}>@BrunoCota</Card.Header>
