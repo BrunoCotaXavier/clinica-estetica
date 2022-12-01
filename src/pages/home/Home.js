@@ -28,7 +28,7 @@ const Home = () => {
                   Super indico está clinica, precisei fazer um procecimento facial e deu 100% certo! <br/>
                   Eles foram super atenciosos.
                 </Card.Text>
-            </Card.Body>
+            </Card.Body> 
           </Card>
           <Card className="mb-3">
             <Card.Header as="h5" style={{color: 'blue'}}>@JuliaChagas</Card.Header>
