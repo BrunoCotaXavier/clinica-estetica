@@ -1,0 +1,21 @@
+.imgSobre {
+    background-image: url('../../assets/esteticaSobre.jpeg');
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 100px;
+    margin-top: -5px;
+    border-radius: 10px;
+}
+
+.containerCardConsulta {
+    display: flex;
+}
+
+@media all and (max-width: 998px) {
+    .titleSobre {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

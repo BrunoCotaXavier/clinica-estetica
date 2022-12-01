@@ -1,0 +1,14 @@
+@media all and (max-width: 998px) {
+    #container {
+        height: 80vh;
+    }
+    .card {
+        margin-bottom: 30px;
+    }
+}
+
+.containerPrincipal {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+}
