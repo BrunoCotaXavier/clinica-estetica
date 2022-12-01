@@ -32,7 +32,7 @@ const Sobre = () => {
                 </Card.Body>
             </Card>
         </div>
-    );
+    ); 
 }
 
 export default Sobre;
